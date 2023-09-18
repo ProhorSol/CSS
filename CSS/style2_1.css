@@ -1,0 +1,28 @@
+
+#language > li {
+    color: black;
+}
+
+#slavic {
+    font-style: italic;
+}
+
+#slavic~li {
+    color: red;
+}
+
+#latvia {
+font-style: italic;
+}
+
+#latvia *{
+    font-style: normal
+}
+    
+#latvia + li {
+    color: #1e441e;
+}
+
+code {
+    border: 1px solid #8d6666;
+}

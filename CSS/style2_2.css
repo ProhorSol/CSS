@@ -1,0 +1,19 @@
+li:nth-child(2n) { 
+    background: #bbb6b6;
+}
+
+li:nth-child(3) { 
+    color: red;
+}
+
+li:first-child {
+    background: #c0080833;
+}
+
+li:last-child {
+    background: #25259c33;
+}
+
+code {
+    border: 1px solid black;
+}
